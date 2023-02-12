@@ -1,0 +1,14 @@
+#ignore all the files from the target folder
+target/
+
+# ignore the DS store files
+.DS_Store
+
+#ignore projects folder
+.project
+
+#ignore classpath
+.classpath
+
+#ignore settings
+.settings/
